@@ -1,2 +1,2 @@
-# Chimba
-Comercio   Para pequeños locales 
+# CHIMBA
+Comercio para pequeñas empresas 
